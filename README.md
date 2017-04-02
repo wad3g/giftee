@@ -6,7 +6,7 @@ A macOS menubar app to easily convert media to animated GIFs.
 ![giftee demo](demo.gif)
 
 ## Download
-The latest version of Ramme for macOS, Linux and Windows is available [here](https://github.com/wad3g/giftee/releases).
+The latest version of **GIFtee** for macOS is available [here](https://github.com/wad3g/giftee/releases).
 
 **Giftee** was built using the [gifs.com](http://gifs.com) API.
 
@@ -28,7 +28,7 @@ The latest version of Ramme for macOS, Linux and Windows is available [here](htt
 - `facebook`
 - ~`vine`~
 
-## Building Giftee
+## Building GIFtee
 
 Clone the repository
 
