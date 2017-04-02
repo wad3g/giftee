@@ -1,0 +1,19 @@
+{
+  "name": "giftee",
+  "version": "1.0.0",
+  "description": "macOS menubar app to easily convert media to animated GIFs",
+  "dependencies": {
+    "electron-shortcut": "^0.4.1",
+    "jquery": "^3.2.1",
+    "menubar": "*"
+  },
+  "devDependencies": {
+    "electron-packager": "^5.1.0",
+    "electron-prebuilt": "^0.36.0"
+  },
+  "main": "main.js",
+  "scripts": {
+    "build": "electron-packager . Giftee --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
+    "start": "electron ."
+  }
+}
